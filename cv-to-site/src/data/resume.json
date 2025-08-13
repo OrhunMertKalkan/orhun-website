@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Orhun Mert Kalkan",
+    "label": "Endüstri Mühendisi",
+    "email": "orhunmertkalkan@gmail.com",
+    "phone": "05316630907",
+    "location": {
+      "city": "Fatih / İstanbul",
+      "country": "TR"
+    },
+    "summary": "Maltepe Üniversitesi Endüstri Mühendisliği (İngilizce) bölümünü fakülte birincisi olarak tamamladım. Hazine ve Uyum Stajyeri olarak finans alanında deneyim, risk yönetimi ve çalışmaya katkı sağladım. Stratejik optimizasyon tutkusuna sahip hedef belirlemede, performans izleme, araştırma süreçlerini yönetim ve pazara analiz konularında deneyim ve proje yönetimi yapmış bireyim.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "orhunmertkalkan",
+        "url": "https://linkedin.com/in/orhunmertkalkan"
+      }
+    ]
+  },
+  "skills": [
+    {"name": "SQL", "level": "intermediate"},
+    {"name": "Agile", "level": "intermediate"},
+    {"name": "SAP", "level": "intermediate"},
+    {"name": "Jira", "level": "intermediate"},
+    {"name": "MS Ofis Programları", "level": "advanced"}
+  ],
+  "languages": [
+    {"language": "İngilizce", "fluency": "B2"}
+  ],
+  "work": [
+    {
+      "name": "Yapı Kredi",
+      "position": "Operasyon Kontrol Uzman Yardımcısı",
+      "startDate": "2025-05-12",
+      "endDate": "present",
+      "location": "İstanbul",
+      "summary": "Takasbank işlemlerinde temizlik girişi, güncelleme ve kişiye taksimat süreçlerinin takibini yapıyor ve gerekli teminat operasyonları koordine ediyorum.",
+      "highlights": [
+        "Yabancı bankalara margin call süreçlerinin takibini yapıyor",
+        "Gerekli teminat operasyonları koordine ediyorum"
+      ]
+    },
+    {
+      "name": "Bank of China",
+      "position": "Hazine ve Uyum Stajyeri",
+      "startDate": "2025-03-17",
+      "endDate": "2025-05-09",
+      "location": "İstanbul",
+      "summary": "SWIFT ve EFT üzerinden ödemeler ve uzlaşma işlemlerini yürütmek, hazine Back/Middle Office risklerin kontrol sağlamak. Hazine işlemleri risk kontrolü sağlamak. Operasyonel riskler için raporlama.",
+      "highlights": [
+        "SWIFT ve EFT üzerinden ödemeler ve uzlaşma işlemleri",
+        "Back/Middle Office risk kontrolü",
+        "Operasyonel risk raporlama"
+      ]
+    },
+    {
+      "name": "Alternatif Bank",
+      "position": "Hazine Stajyeri", 
+      "startDate": "2023-12-04",
+      "endDate": "2025-03-14",
+      "location": "İstanbul",
+      "summary": "SWIFT ve EFT üzerinden ödeme ve uzlaşma işlemlerini yapmak, Hazine Back Office ve Middle Office işlevlerini yönetmek, Hazine işlemleri risklerin koordine etmek.",
+      "highlights": [
+        "SWIFT ve EFT üzerinden ödeme ve uzlaşma işlemleri",
+        "Hazine Back Office ve Middle Office işlevleri",
+        "Risk koordinasyonu"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Maltepe Üniversitesi",
+      "area": "Endüstri Mühendisliği",
+      "studyType": "Lisans",
+      "startDate": "2018-09",
+      "endDate": "2022-06",
+      "score": "Fakülte Birincisi"
+    }
+  ],
+  "projects": [],
+  "certificates": []
+}
